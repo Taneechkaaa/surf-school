@@ -4,8 +4,11 @@
   left: 50%;
   top: 0;
   transform: translateX(-50%);
+  margin-top: 35px;
 }
 .navigation-logo {
+  margin-right: 185px;
+  width: 60px;
 }
 .navigation-list {
   display: flex;
@@ -13,6 +16,8 @@
   gap: 45px;
   color: #fff;
   font-size: 24px;
+  align-items: center;
 }
 .navigation-item {
+  font-size: 24px;
 }

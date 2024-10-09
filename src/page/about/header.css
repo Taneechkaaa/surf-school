@@ -10,3 +10,13 @@
   justify-content: center;
   flex-direction: column;
 }
+
+.header-title {
+  font-size: 150px;
+  font-family: Raleway;
+  font-weight: 700;
+}
+.header-text {
+  font-size: 20px;
+  font-weight: 400;
+}
