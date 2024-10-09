@@ -1,0 +1,33 @@
+.aboutMain {
+  margin-top: 189px;
+  margin-bottom: 200px;
+}
+.descriptionSchool-title {
+  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 96px;
+}
+.descriptionSchool-content {
+  display: flex;
+  align-items: center;
+  gap: 120px;
+  margin-left: 360px;
+  margin-right: 360px;
+}
+
+.descriptionSchool-textContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.descriptionSchool-text {
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 300;
+}
