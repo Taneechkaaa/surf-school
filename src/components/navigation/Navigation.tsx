@@ -13,19 +13,15 @@ export const Navigation = () => {
       </Link>
       <ul className="navigation-list">
         <li className="navigation-item">
-          {" "}
           <Link to="/">О нас</Link>
         </li>
         <li className="navigation-item">
-          {" "}
           <Link to="/servises">Услуги и цены</Link>
         </li>
         <li className="navigation-item">
-          {" "}
           <Link to="/team">Команда</Link>
         </li>
         <li className="navigation-item">
-          {" "}
           <Link to="/contacts">Контакты</Link>
         </li>
       </ul>
