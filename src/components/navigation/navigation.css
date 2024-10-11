@@ -1,10 +1,13 @@
 .navigation {
   position: absolute;
   display: flex;
-  left: 50%;
   top: 0;
-  transform: translateX(-50%);
-  margin-top: 35px;
+  background: #0d302c;
+  width: 100%;
+  justify-content: center;
+  height: 150px;
+  align-items: center;
+  opacity: 70%;
 }
 .navigation-logo {
   margin-right: 185px;

@@ -1,11 +1,10 @@
-import "./DescriptionSchool.css";
+import "./descriptionSchool.css";
+import "./AboutMain.css";
 
 export const DescriptionSchool = () => {
   return (
     <div className="aboutMain-descriptionSchool">
-      <h1 className="descriptionSchool-title">
-        О ШКОЛЕ, О СЕРФИНГЕ, О КАНАРАХ
-      </h1>
+      <h1 className="description-title">О ШКОЛЕ, О СЕРФИНГЕ, О КАНАРАХ</h1>
       <div className="descriptionSchool-content">
         <div className="descriptionSchool-textContainer">
           <p className="descriptionSchool-text">
