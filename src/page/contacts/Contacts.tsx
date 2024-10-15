@@ -3,7 +3,14 @@ import "./contacts.css";
 export const Contacts = () => {
   return (
     <div className="contacts">
-      <img className="contactsCard" src="./contacts/card.png" alt="" />
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "center",
+        }}
+      >
+        <img className="contactsCard" src="/contacts/card.png" alt="" />
+      </div>
       <h1 className="description-title contacts-title">ОСТАВИТЬ ЗАЯВКУ</h1>
       <div className="contacts-content">
         {" "}

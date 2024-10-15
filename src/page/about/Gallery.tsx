@@ -34,19 +34,19 @@ const gallery = [
   },
   {
     src: "./about/tourists-gallery1.png",
-    imageWidth: 300,
+    imageWidth: 580,
     imageHeight: 280,
     type: "tourists",
   },
   {
     src: "./about/tourists-gallery2.png",
-    imageWidth: 300,
+    imageWidth: 290,
     imageHeight: 280,
     type: "tourists",
   },
   {
     src: "./about/tourists-gallery3.png",
-    imageWidth: 300,
+    imageWidth: 290,
     imageHeight: 280,
     type: "tourists",
   },
@@ -102,7 +102,7 @@ export const Gallery = () => {
             <img
               key={g.src}
               src={g.src}
-              // width={g.imageWidth}
+              width={g.imageWidth}
               height={g.imageHeight}
             />
           ))}
