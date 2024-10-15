@@ -30,7 +30,7 @@ export const ServicePackages = () => {
             <p className="packages-item">Страховка</p>
             <p className="packages-item">Вечеринка с угощениями и дискотекой</p>
           </div>
-          <h2 className="servicePackages-subheader">450$</h2>
+          <h2 className="servicePackages-subheader">950$</h2>
         </div>
 
         <div className="packages">
@@ -45,7 +45,7 @@ export const ServicePackages = () => {
             <p className="packages-item">Страховка</p>
             <p className="packages-item">Вечеринка с угощениями и дискотекой</p>
           </div>
-          <h2 className="servicePackages-subheader">450$</h2>
+          <h2 className="servicePackages-subheader">1450$</h2>
         </div>
       </div>
     </div>
